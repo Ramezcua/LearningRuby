@@ -3,3 +3,5 @@ Learning Ruby Journal
 2013/7/24 - Started using Pragmatic Ruby 1.9.  Downloaded and installed ruby.  Wrote my hello world program.  Left off on page 33.
 
 2013/7/25 - Installed Github on my fresh Win7 installation.  Got it running smoothly for once.  Went over hashes and arrays and some basic for Ruby.  Left off on page 42.
+
+2013/7/27 - Learn about some cools things like code blocks and symbols.  Went over some object basics in Ruby.  Getters and setters are so much easier in Ruby <3. Left off on page 63.

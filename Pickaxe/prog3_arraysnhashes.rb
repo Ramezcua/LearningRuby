@@ -31,3 +31,25 @@ p histogram['ruby'] #=> 0
 histogram['ruby'] = histogram['ruby'] + 1
 p histogram['ruby'] # => 1
 
+#Symbols
+inst_section = {
+  :cello 		=> 'string',
+  :clarinet 	=> 'woodwind',
+  :drum 		=> 'percussion',
+  :oboe			=> 'woodwind',
+  :trumpet		=> 'brass',
+  :violin		=> 'string'
+}
+p inst_section[:oboe]  #=> "woodwind"
+p inst_section[:cello] #=> "string"
+p inst_section['cello'] #=> nil
+
+inst_sections = {
+  cello: 'string',
+  clarinet: 'woodwind',
+  drum: 'percussion',
+  oboe: 'woodwind',
+  trumpet: 'brass', 
+  violin: 'string'
+}
+puts "An oboe is a #{inst_section[:oboe]}"
