@@ -10,3 +10,5 @@ Learning Ruby Journal
 
 2013/8/1 - Made a word counter program.  Also wrote tests for it.  Testing is pretty similar to Java.  Read things about block too, but need to 
 implement it before I understand it.  Left off on page 84.
+
+2013/8/5 - Finished up objects, inheritance and mixins.  Wrote a program that showed mixins for modules.  Pg 107
