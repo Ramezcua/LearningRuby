@@ -22,5 +22,5 @@ if p1 > p2
 end
 
 #Sort an array of Person objects
-puts "Sorted list:"
 puts [ p1, p2, p3].sort
+puts "Sorted list:"
